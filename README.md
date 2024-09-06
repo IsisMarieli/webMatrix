@@ -20,3 +20,5 @@ app.js: Arquivo JavaScript contendo a lógica da aplicação, como a função de
 **4. Funcionamento**
 Pesquisa: Ao digitar um termo e clicar em "Pesquisar", a aplicação percorre o array de personagens em dados.js e verifica se o termo digitado está presente no título ou na descrição de cada personagem.
 Exibição de Resultados: Os personagens que correspondem à pesquisa são exibidos na seção "resultados-pesquisa", com o título, descrição e link para o vídeo.
+
+**segue link: https://web-matrix-tygi.vercel.app/**
